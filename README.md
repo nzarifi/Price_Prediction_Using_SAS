@@ -1,0 +1,2 @@
+# Price_Prediction_Using_SAS
+A diamond distributor has recently decided to exit the market and has put up a set of 3,000 diamonds up for auction. Seeing this as a great opportunity to expand its inventory, a jewelry company has shown interest in making a bid. To decide how much to bid, the company’s analytics team used a large database of diamond prices to build a model to predict the price of a diamond based on its attributes. As a data analyst, you are assigned to do data analysis and predictive modeling to make a recommendation for how much the company should bid.
